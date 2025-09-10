@@ -1,7 +1,7 @@
 # 📊 Task 6: Get Basic Sales Summary from a Tiny SQLite Database using Python
 ## 🎯 Objective
 
-The goal of this task is to connect Python with a small SQLite database, pull out sales information (like total quantity sold and total revenue), and visualize the results in a simple bar chart.
+The goal of this task is to connect Python with a  SQLite database, pull out sales information (like total quantity sold and total revenue), and visualize the results in a simple bar chart.
 
 ## 🛠 Tools Used
 
@@ -17,25 +17,9 @@ The goal of this task is to connect Python with a small SQLite database, pull ou
 
  - **sales_data :** [sales_data.csv](https://github.com/user-attachments/files/22251994/sales_data.csv)
 
-The dataset (sales_data.csv) contains sales transactions with the following columns:
+The dataset (sales_data.csv) contains sales transactions with columns:
 
-InvoiceNo – Unique invoice number
-
-StockCode – Product stock identifier
-
-Product – Product name
-
-Quantity – Number of units sold
-
-InvoiceDate – Date of the transaction
-
-UnitPrice – Price per unit
-
-CustomerID – Unique customer identifier
-
-Country – Country of the customer
-
-TotalPrice – Calculated revenue (Quantity * UnitPrice)
+InvoiceNo, StockCode, Product, Quantity, InvoiceDate, UnitPrice, CustomerID, Country, TotalPrice 
 
 ## 🔎 Steps Performed
 
