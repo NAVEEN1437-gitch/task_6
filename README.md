@@ -45,9 +45,9 @@ TotalPrice – Calculated revenue (Quantity * UnitPrice)
 
 - Ran an SQL query to calculate:
 
-- Total quantity sold per product
+   - Total quantity sold per product
 
-- Total revenue per product
+   - Total revenue per product
 
 - Sorted the results by revenue and displayed the Top 10 products.
 
@@ -59,4 +59,4 @@ TotalPrice – Calculated revenue (Quantity * UnitPrice)
 
 - Chart: A bar chart showing the Top 5 Products by Revenue.
   
-- Save The Chart : Saved the out put bar chart as sales_data.png
+- File : Saved the out put bar chart as sales_data.png
