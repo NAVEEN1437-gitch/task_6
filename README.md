@@ -1,4 +1,4 @@
-# 📊 Task 6: Get Basic Sales Summary from a Tiny SQLite Database using Python
+# 📊 Task 6: Get Basic Sales Summary from a SQLite Database using Python
 ## 🎯 Objective
 
 The goal of this task is to connect Python with a  SQLite database, pull out sales information (like total quantity sold and total revenue), and visualize the results in a simple bar chart.
